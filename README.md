@@ -20,6 +20,7 @@ I build data pipelines, backend services and RAG systems. Today I work at **VAST
 |---|---|---|
 | [**Kung Fu Chess**](https://github.com/AyalaKari135/kung-fu-chess) | Real-time multiplayer chess with no turns. Distributed server: gateway, orchestrator and game shards over Redis, PostgreSQL storage, Docker Compose, pytest suite | Python, WebSockets, Redis, PostgreSQL, Docker |
 | [**AgentClinic**](https://github.com/AyalaKari135/my-agentclinic) | Server-rendered web app built with Spec-Driven Development and Claude Code as the coding agent | TypeScript, Hono, SQLite, Vitest |
+| [**Assignment Submission API**](https://github.com/AyalaKari135/Assignment-Submission-API) | REST API and web client for submitting and grading assignments, with student and teacher roles, JWT auth, bcrypt, Winston logging, API tests and CI. Pair project | Node.js, Express, TypeScript, MongoDB |
 | [**In-Memory Database**](https://github.com/AyalaKari135/in-memory-database-design-patterns) | A small database engine built with 8 design patterns: Singleton, Builder, Prototype, Facade, Composite, Command, Template Method, Observer. UML included | Java, OOP |
 | [**LuxRecipes**](https://github.com/AyalaKari135/recipe-website) · [live site](https://ayalakari135.github.io/recipe-website/login.html) | Recipe website with sign-up, login and personal settings, no server needed | HTML, CSS, JavaScript |
 
