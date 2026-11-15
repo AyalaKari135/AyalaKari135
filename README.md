@@ -24,11 +24,11 @@ I build data pipelines, backend services and RAG systems. Today I work at **VAST
 
 ## Tech stack
 
-**Languages:** Python · SQL · C# · TypeScript · JavaScript · Java · C++
-**Data:** PySpark · Spark SQL · Databricks · Delta Lake · AWS S3 · PostgreSQL · SQL Server · MongoDB
-**Backend:** FastAPI · .NET Core · Node.js / Express · REST APIs
-**Frontend:** Angular · React
-**Tools:** Docker · Git · Azure · Linux · Claude
+- **Languages:** Python · SQL · C# · TypeScript · JavaScript · Java · C++
+- **Data:** PySpark · Spark SQL · Databricks · Delta Lake · AWS S3 · PostgreSQL · SQL Server · MongoDB
+- **Backend:** FastAPI · .NET Core · Node.js / Express · REST APIs
+- **Frontend:** Angular · React
+- **Tools:** Docker · Git · Azure · Linux · Claude
 
 ## Contact
 
